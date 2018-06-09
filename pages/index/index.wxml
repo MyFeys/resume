@@ -1,0 +1,183 @@
+<view class="headbag">
+    <view class='margin-10'>
+        <view class="userinfo">
+          <image class="userinfo-avatar" src="/imgs/resume/icon.jpg" background-size="cover"></image>
+          <text class="userinfo-nickname">{{userinfo.nickName}}</text>
+      </view>
+    </view>
+    <view class='portrait'>
+      <view class='TrueName'>张仪康 (上海)</view>
+      <view class='describe'>
+        <view>技术总监 · 上海**信息科技有限公司</view>
+        <view>男  |  30岁  |  10年以上开发经验  |  本科 </view>
+        <view bindtap='phonecall' data-mobile="17521015950">M. 13838886888 | E. 2703799517@qq.com</view>
+      </view>
+    </view>
+
+<view class='superiority'>
+  可前端上马做交互，后端下马理逻辑，有品位有思维
+  </view>
+    <view class='clear'></view>
+
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/work.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+          <view class='ledtop'>
+              <view class='led'>上海某某信息科技有限公司</view>
+              <view class='position'>任职:【 技术总监 】</view>
+              <view class='deadline'>期限:【 2017.10 - 至今 】</view>
+              <view class='JobDescription'>
+                <text>1、在此期间负责招聘组建培训团队，项目bug测试、项目质量把控，制作技术开发文档、项目任务实施安排等。
+2、进行外包定制小程序项目的主程开发，服务器环境搭建、运维，数据库设计等。
+3、为公司重大决策项目、新产品技术项目的立项和开发提供建议和指导；
+4、协助前端开发人员完成后端服务的开发与前端Web应用的对接等；
+5、使用的技术有：thinkphp5，laravel5.2，lumen框架，前端div、css、jquery、ajax、bootstrap等。
+6、搭建的服务器为：腾讯云Linux，环境为：lamp，lnmp、mysql数据库、git代码版本管理、git钩子等。
+                </text>
+              </view>
+            <view class='clear'></view>
+
+            <view class='led'>某某(上海)网络科技有限公司</view>
+              <view class='position'>任职:【 技术经理 】</view>
+              <view class='deadline'>期限:【 2016.10 — 2017.11 】</view>
+              <view class='JobDescription'>
+                <text>1、在职期间负责项目“叮叮物流配送”的需求整理、落地实施和产品迭代，并着手设计项目主要功能以及后台支持，同时协调ui、开发、测试共同推动项目及功能的完美落地。
+2、使用的技术有：thinkphp3.2，laravel，lumen框架，前端div、css、jquery、ajax、bootstrap。
+3、搭建的服务器环境为：Linux、阿里云docker容器，lamp，mysql数据库、git代码版本管理。
+                </text>
+              </view>
+              <view class='clear'></view>
+
+             
+          </view>
+
+      </view>
+</view>
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/Project.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+
+          <view class='ledtop'>
+              <view class='led'>OA、ERP办公系统</view>
+              <view class='position'>开发周期：25个工作日</view>
+              <view class='deadline'>采用框架：Thinkphp3.2</view>
+              <view class='JobDescription'>
+                该项目我主要负责开发的功能有：管理员权限管理，客户关系管理，客户服务到期提示，客户服务记录，员工签到，工作任务安排，项目工单，工作报告，领导审批，内部交流，邮件发送，财务审批，产品及库存管理等。
+              </view>
+          </view>
+          <view class='clear'></view>
+
+          <view class='ledtop'>
+              <view class='led'>网上商城系统开发</view>
+              <view class='position'>开发周期：30个工作日</view>
+              <view class='deadline'>采用框架：Thinkphp3.2</view>
+              <view class='JobDescription'>
+                该项目我主要负责开发的功能有：数据库搭建、开发文档编写，每个会员均可申请独立的商城后台及商城前台，包括会员还可申请公司已开发出的其他ERM项目，OA项目等企业应用项目，全部采用SAAS模式搭建、开发的目标就是：注册会员可以一键开独立商城项目，项目资金结算全部由统一财务后台管理，注册会员购买公司开发的应用项目不用下载源码及安装一键购买使用等功能。
+              </view>
+          </view>
+          <view class='clear'></view>
+
+      </view>
+</view>
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/personal.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+          <view class='ledtop'>
+              <view class='JobDescription'>
+                <text>10年web开发经验，5年以上PHP开发经验，比较熟练拿手掌握的技能有：
+一、PHP程序开发：
+1、PHP原生态后台程序开发。（精通）
+2、Thinkphp开源框架后台程序开发。（精通）
+3、Lumen开源框架后台程序开发。(一般)
+5、Laravel开源框架后台程序开发。（熟悉）
+6、ASP.NETweb程序开发（C#）（熟悉）
+7、熟悉项目程序bug测试、性能优化、有快速解决问题的能力。
+二、web前端设计：
+1、网站UI设计主要是photoshop、ai网站效果图设计。
+2、精通HTML4 Table DIV+CSS 及 熟悉HTML5页面排版设计。
+3、熟悉JavaScript、JQuery、Vue.js、Bootstrap、SuperSlide.js前端设计开发。
+三、数据库优化：
+1、精通MYSQL数据库的设计及优化，对NoSQL（Mongodb）了解。
+2、熟悉Redis、Memcached及Cache等缓存技术。
+3、了解MySQL数据库事务处理。
+四、其他方面：
+1、熟悉开发环境的搭建、优化（Linux系统、Windows系统上的php以及.NET开发环境）；
+2、对功能接口开发有一些经验，熟悉RPC远程访问； 
+3、熟悉SVN，GIT代码版本协作管理等。
+4、熟悉linux GIT SVN钩子配置等。
+                </text>
+              </view>
+          </view>
+      </view>
+</view>
+
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/self-description.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+          <view class='ledtop'>
+              <view class='JobDescription'>
+                <text>做人：忠实诚信,讲原则，说到做到，决不推卸责任；有自制力，做事情始终坚持有始有终，从不半途而废，性格开朗、为人诚恳、乐观向上、兴趣广泛、拥有较强的组织能力和适应能力、并具有较强的管理策划与组织管理协调能力。\n
+                    做事：做一行爱一行，我一直坚信，做自己喜欢的工作是世界上最令人开心的事情，会用100%的热情和精力投入到工作中！毕竟上班时间我是开心的，下班时间也是开心的。\n
+                    学习：一直都觉得人生就是一个不断学习的过程，我坚信人生只有通过学习，才能通往更美好的未来，实现人生自我实现的必由之路。
+                    </text>
+              </view>
+          </view>
+      </view>
+</view>
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/Education.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+          <view class='ledtop'>
+
+              <view class='led'>洛阳某某电脑培训</view>
+              <view class='position'>专业:【 网络工程 】</view>
+              <view class='deadline'>期限:【 2005.10 - 2006.10 】</view>
+              <view class='JobDescription'>
+                <text>Linux系统、Windows服务器系统、网页设计、ASP程序开发
+                </text>
+              </view>
+              <view class='clear'></view>
+
+              <view class='led'>河南某某中等学校</view>
+              <view class='position'>专业:【 电子商务 】</view>
+              <view class='deadline'>期限:【 2002.8 - 2005.7 】</view>
+              <view class='JobDescription'>
+                <text>计算机基础应用</text>
+              </view>
+
+          </view>
+      </view>
+</view>
+
+  <view class='clear'></view>
+      <view class='employment'>
+      社交圈子：
+          <text>
+          博客：http://www.feyec.cn/blog
+          码云：https://gitee.com/myfey
+          GitHub: https://github.com/myfeys
+          </text>
+      </view>
+
+<view class='clear'></view>
+<view class='enddec'>
+    © 2018 ZhangYiKang Corporation. All rights reserved. 
+</view>
+<view class='end'></view>
+
+</view>
